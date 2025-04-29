@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7523858137149804554
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flower4_SG
+  m_Shader: {fileID: -6465566751694194690, guid: d29871b5b9482674da2b56e737110e66, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  - SHADOWCASTER
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Texture:
+        m_Texture: {fileID: 2800000, guid: b3d0250e4b7a1ac4abe98a38d34d2048, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TerrainLayerAlbedo0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TerrainLayerAlbedo1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TerrainLayerAlbedo2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TerrainSplatMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Color_Texture:
+        m_Texture: {fileID: 8400000, guid: b3bb192ca1d901a41840da7aaea08a19, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Layer_Albedo0:
+        m_Texture: {fileID: 2800000, guid: 9273b0666f47d5e4e86165bf96cb7404, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Layer_Albedo0_:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Layer_Albedo1:
+        m_Texture: {fileID: 2800000, guid: 62ca00121c2f0c646a26db82e26732c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Layer_Albedo1_:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Layer_Albedo2:
+        m_Texture: {fileID: 2800000, guid: fd8c3363a4dd30247bee08b93a86a3a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Layer_Albedo2_:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Splat_Map:
+        m_Texture: {fileID: -5024744269185416560, guid: 4bad86ec375b27345b80a7efe0c9cce8, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Terrain_Splat_Map_:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _V0_Terrain_Layer_Albedo0:
+        m_Texture: {fileID: 2800000, guid: 5ec0f071b81b63241967c85ddfc73ff8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _V0_Terrain_Layer_Albedo1:
+        m_Texture: {fileID: 2800000, guid: 20aa0f234461fbc46ae6fe91f504e2f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _V0_Terrain_Layer_Albedo2:
+        m_Texture: {fileID: 2800000, guid: cb541e13f614ed748a9058d942f9e9f4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _V0_Terrain_Layer_Albedo3:
+        m_Texture: {fileID: 2800000, guid: 9273b0666f47d5e4e86165bf96cb7404, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _V0_Terrain_Splat_Map:
+        m_Texture: {fileID: -5024744269185416560, guid: 4bad86ec375b27345b80a7efe0c9cce8, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Wind_Texture:
+        m_Texture: {fileID: 2800000, guid: d457ad730a979b847bb73a04f117006e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 1
+    - _AlphaToMask: 1
+    - _Alpha_Clip_Threshold: 0.5
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 1
+    - _Blend_Height: 0.5
+    - _Blend_With_Terrain: 0
+    - _Blended_Height: 0.3
+    - _CastShadows: 0
+    - _Cull: 0
+    - _DstBlend: 0
+    - _Far_Color_Intensity: 0.5
+    - _Height_Blend: 1
+    - _Height_Blend_Threshold: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Shadow_Coloring: 0
+    - _Shadow_Step: 0.5
+    - _Smoothness: 0
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _Sway_Intensity: 0.25
+    - _Sway_Scale: 5
+    - _Terrain_Blending: 1
+    - _Terrain_Color_Blend: 0.5
+    - _Terrain_Offset: 0
+    - _Terrain_Size: 70
+    - _Terrain_Size_1: 0
+    - _Terrain_Tood_Shading: 1
+    - _Wind_Height: 3
+    - _Wind_Intensity: 0.2
+    - _Wind_Noise_Speed: 1
+    - _Wind_Speed: 0.5
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    m_Colors:
+    - _Base_Color: {r: 0.852215, g: 1, b: 0.3066038, a: 1}
+    - _Bottom_Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Far_Color: {r: 0.9607843, g: 0.9336797, b: 0.06666665, a: 0}
+    - _NearFarRange: {r: 0, g: 0, b: 0, a: 0}
+    - _Near_Color: {r: 0.28234184, g: 0.8207547, b: 0.13550194, a: 1}
+    - _Near_Far_Range: {r: 10, g: 20, b: 0, a: 0}
+    - _Shadow_Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Sway_Dimension: {r: 0.5, g: 0, b: 1, a: 0}
+    - _Sway_Velocity: {r: 0.1, g: 0, b: 0, a: 0}
+    - _TerrainLayerTiling0: {r: 0, g: 0, b: 0, a: 0}
+    - _TerrainLayerTiling1: {r: 0, g: 0, b: 0, a: 0}
+    - _TerrainLayerTiling2: {r: 0, g: 0, b: 0, a: 0}
+    - _TerrainPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _TerrainSize: {r: 0, g: 0, b: 0, a: 0}
+    - _Terrain_Layer_Tiling0: {r: 16, g: 16, b: 0, a: 0}
+    - _Terrain_Layer_Tiling0_: {r: 0, g: 0, b: 0, a: 0}
+    - _Terrain_Layer_Tiling1: {r: 16, g: 16, b: 0, a: 0}
+    - _Terrain_Layer_Tiling1_: {r: 0, g: 0, b: 0, a: 0}
+    - _Terrain_Layer_Tiling2: {r: 16, g: 16, b: 0, a: 0}
+    - _Terrain_Layer_Tiling2_: {r: 0, g: 0, b: 0, a: 0}
+    - _Terrain_Origin_XZ: {r: 41, g: -100, b: 0, a: 0}
+    - _Terrain_Position: {r: 0, g: 0, b: 0, a: 0}
+    - _Terrain_Position_: {r: 0, g: 0, b: 0, a: 0}
+    - _Terrain_Size: {r: 25, g: 600, b: 25, a: 0}
+    - _Terrain_Size_: {r: 25, g: 600, b: 25, a: 0}
+    - _V0_Terrain_Layer_Tiling0: {r: 2, g: 2, b: 0, a: 0}
+    - _V0_Terrain_Layer_Tiling1: {r: 2, g: 2, b: 0, a: 0}
+    - _V0_Terrain_Layer_Tiling2: {r: 2, g: 2, b: 0, a: 0}
+    - _V0_Terrain_Layer_Tiling3: {r: 16, g: 16, b: 0, a: 0}
+    - _V0_Terrain_Position: {r: 0, g: 0, b: 0, a: 0}
+    - _V0_Terrain_Size: {r: 25, g: 300, b: 25, a: 0}
+    - _Wind_Dimension: {r: 1, g: 0, b: 1, a: 0}
+    - _Wind_Direction: {r: 1, g: 0, b: 1, a: 0}
+    - _Wind_Noise_Contrast: {r: 0, g: 3, b: 0, a: 0}
+    - _Wind_Noise_Scale_Dimension: {r: 40, g: 60, b: 0, a: 0}
+    - _Wind_Velocity: {r: 0.1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

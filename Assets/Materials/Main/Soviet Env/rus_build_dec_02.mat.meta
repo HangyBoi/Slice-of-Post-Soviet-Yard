@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8ad7ec199cba18f4f8d4df106d1b4f15
+timeCreated: 1523074218
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116033
+  packageName: Russian graffiti pack
+  packageVersion: 1.0
+  assetPath: Assets/russian_buildings/materials/rus_build_dec_02.mat
+  uploadId: 239549

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d5dc17be7a10f14d93226575f2be92f
+timeCreated: 1523074129
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116033
+  packageName: Russian graffiti pack
+  packageVersion: 1.0
+  assetPath: Assets/russian_buildings/scenes/demo_scene_graffiti.unity
+  uploadId: 239549
