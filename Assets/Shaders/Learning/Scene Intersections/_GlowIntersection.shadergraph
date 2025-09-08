@@ -2340,7 +2340,7 @@
     "m_Title": "Adding Depth Intersection",
     "m_Position": {
         "x": -1136.0,
-        "y": 116.00001525878906
+        "y": 116.0
     }
 }
 
@@ -2488,8 +2488,8 @@
     "m_ObjectId": "9a84e988037840b9bd7906fc0447a378",
     "m_Title": "Detecting UV Coordinates Close to 0 (Bottom-Left Part of UV Map)",
     "m_Position": {
-        "x": -1814.9998779296875,
-        "y": 522.0000610351563
+        "x": -1815.0,
+        "y": 522.0
     }
 }
 
@@ -2523,8 +2523,8 @@
     "m_ObjectId": "9d725d9564a344a59be5b7e44616e236",
     "m_Title": "Detecting UV Coordinates Close to 1 (Top-Right Part of UV Map)",
     "m_Position": {
-        "x": -1976.9998779296875,
-        "y": 1004.0001220703125
+        "x": -1977.0,
+        "y": 1004.0
     }
 }
 
@@ -3071,7 +3071,7 @@
     "m_Group": {
         "m_Id": "fffc5e0a1d30459ea58c082189aa2cd2"
     },
-    "m_Name": "BaseColor",
+    "m_Name": "BaseColorAndTexture",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -3788,8 +3788,8 @@
     "m_ObjectId": "fffc5e0a1d30459ea58c082189aa2cd2",
     "m_Title": "Base Color",
     "m_Position": {
-        "x": -215.0003204345703,
-        "y": -36.99999237060547
+        "x": -215.0,
+        "y": -37.0
     }
 }
 

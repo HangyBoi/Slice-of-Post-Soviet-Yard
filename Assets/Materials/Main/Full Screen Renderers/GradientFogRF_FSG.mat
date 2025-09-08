@@ -43,13 +43,13 @@ Material:
     m_Colors:
     - _ColorFar: {r: 0.031817373, g: 0.03431059, b: 0.122641504, a: 0}
     - _ColorNear: {r: 1, g: 1, b: 1, a: 0}
-    - _Color_Start_End: {r: 0, g: 25, b: 0, a: 0}
-    - _Fade_Start_End: {r: 0, g: 21.8, b: 0, a: 0}
+    - _Color_Start_End: {r: 0, g: -5, b: 0, a: 0}
+    - _Fade_Start_End: {r: 0, g: 10, b: 0, a: 0}
     - _Far_Color: {r: 0.4339623, g: 0.37050554, b: 0.37050554, a: 0}
     - _HeightFade: {r: 3.69, g: 7.91, b: 0, a: 0}
-    - _Height_Fade: {r: 0, g: 12.7, b: 0, a: 0}
+    - _Height_Fade: {r: 0, g: 115.03, b: 0, a: 0}
     - _HorizonFade: {r: 4.65, g: 23, b: 0, a: 0}
-    - _Horizon_Fade: {r: 0, g: 20, b: 0, a: 0}
-    - _Near_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Horizon_Fade: {r: 0, g: 5, b: 0, a: 0}
+    - _Near_Color: {r: 0.15823877, g: 0.18867922, b: 0.15752934, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
