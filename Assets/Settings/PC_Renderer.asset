@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: World Fog
   m_EditorClassIdentifier: 
   m_Active: 0
-  injectionPoint: 550
+  injectionPoint: 600
   fetchColorBuffer: 1
   requirements: 1
   passMaterial: {fileID: 2100000, guid: 53261426d5f29f1448d1dcd7f3f9eb94, type: 2}
@@ -116,7 +116,7 @@ MonoBehaviour:
     AfterOpaque: 1
     Source: 0
     NormalSamples: 1
-    Intensity: 0.5
+    Intensity: 0.79
     DirectLightingStrength: 0.55
     Radius: 1.5
     Samples: 1

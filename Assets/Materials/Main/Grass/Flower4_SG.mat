@@ -142,10 +142,11 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _Blend_Height: 0.5
     - _Blend_With_Terrain: 0
-    - _Blended_Height: 0.3
+    - _Blended_Height: 0.75
     - _CastShadows: 0
     - _Cull: 0
     - _DstBlend: 0
+    - _DstBlendAlpha: 0
     - _Far_Color_Intensity: 0.5
     - _Height_Blend: 1
     - _Height_Blend_Threshold: 1
@@ -156,6 +157,7 @@ Material:
     - _Shadow_Step: 0.5
     - _Smoothness: 0
     - _SrcBlend: 1
+    - _SrcBlendAlpha: 1
     - _Surface: 0
     - _Sway_Intensity: 0.25
     - _Sway_Scale: 5
@@ -165,7 +167,7 @@ Material:
     - _Terrain_Size: 70
     - _Terrain_Size_1: 0
     - _Terrain_Tood_Shading: 1
-    - _Wind_Height: 3
+    - _Wind_Height: 0.5
     - _Wind_Intensity: 0.2
     - _Wind_Noise_Speed: 1
     - _Wind_Speed: 0.5

@@ -142,7 +142,7 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _Blend_Height: 0.5
     - _Blend_With_Terrain: 0
-    - _Blended_Height: 0.7
+    - _Blended_Height: 1
     - _CastShadows: 0
     - _Cull: 0
     - _DstBlend: 0
@@ -159,17 +159,17 @@ Material:
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _Sway_Intensity: 0.25
-    - _Sway_Scale: 5
+    - _Sway_Intensity: 0.19
+    - _Sway_Scale: 7.26
     - _Terrain_Blending: 1
     - _Terrain_Color_Blend: 0.5
     - _Terrain_Offset: 0
     - _Terrain_Size: 70
     - _Terrain_Size_1: 0
     - _Terrain_Tood_Shading: 1
-    - _Wind_Height: 3
+    - _Wind_Height: 0.38
     - _Wind_Intensity: 0.2
-    - _Wind_Noise_Speed: 1
+    - _Wind_Noise_Speed: 0.3
     - _Wind_Speed: 0.5
     - _WorkflowMode: 1
     - _ZTest: 4
@@ -183,8 +183,8 @@ Material:
     - _Near_Color: {r: 0.28234184, g: 0.8207547, b: 0.13550194, a: 1}
     - _Near_Far_Range: {r: 10, g: 45, b: 0, a: 0}
     - _Shadow_Color: {r: 0, g: 0, b: 0, a: 1}
-    - _Sway_Dimension: {r: 0.5, g: 0, b: 1, a: 0}
-    - _Sway_Velocity: {r: 0.1, g: 0, b: 0, a: 0}
+    - _Sway_Dimension: {r: 1, g: 0, b: 1, a: 0}
+    - _Sway_Velocity: {r: 0.01, g: 0, b: 0, a: 0}
     - _TerrainLayerTiling0: {r: 0, g: 0, b: 0, a: 0}
     - _TerrainLayerTiling1: {r: 0, g: 0, b: 0, a: 0}
     - _TerrainLayerTiling2: {r: 0, g: 0, b: 0, a: 0}

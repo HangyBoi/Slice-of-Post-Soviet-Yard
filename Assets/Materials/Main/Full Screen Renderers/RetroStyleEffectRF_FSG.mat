@@ -45,11 +45,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Color_Steps_Per_Channel: 32
-    - _Dither_Opacity: 0.75
+    - _Color_Steps_Per_Channel: 256
+    - _Dither_Opacity: 0.58
     - _Dither_Pattern_Size: 0
     - _Dither_Strength: 1.5
-    - _Pixelation_Factor: 1
+    - _Pixelation_Factor: 16
     - _Sharpness_Amount: 0
     - _Use_Palette_Swap: 0
     - _Use_Pixelation_Filter: 0
