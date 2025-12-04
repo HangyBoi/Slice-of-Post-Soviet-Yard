@@ -14,7 +14,8 @@ The goal? To engineer a "Lens" that transforms standard 3D assets into a cohesiv
 ---
 
 ## 📚 Technical Deep Dive (Wiki)
-I have documented the entire engineering process in the Wiki. Click a section to dive in:
+### I have documented the entire engineering process in the Wiki - [CLICK TO DIVE IN](https://github.com/HangyBoi/Slice-of-Post-Soviet-Yard/wiki). 
+Or select a section below.
 
 ### [📐 A. The Living World (Geometry)](https://github.com/HangyBoi/Slice-of-Post-Soviet-Yard/wiki/A.-The-Living-World:-Engineering-Reactive-Geometry)
 * **Terrain Blending:** How I ditched Splat Maps for **Render Textures** to ground the grass.
@@ -36,6 +37,3 @@ I have documented the entire engineering process in the Wiki. Click a section to
 * **Engine:** Unity 6.2 (6000.2.13f1 - Supported) (URP)
 * **Language:** HLSL (Custom Nodes), C# (Renderer Features)
 * **Tools:** Shader Graph, Terrain Editor
-
-## 👨‍💻 About Me
-I am a Game Engineering student specializing in Technical Art. I focus on building tools and systems that empower visual fidelity without sacrificing performance.
